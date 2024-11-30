@@ -1714,6 +1714,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "american_football": {
+    "x": 982,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "american_football-dark": {
+    "x": 0,
+    "y": 680,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "american-football-mono": {
     "x": 40,
     "y": 680,
@@ -1830,6 +1846,22 @@
     "visible": true
   },
   "art-gallery-dark": {
+    "x": 636,
+    "y": 680,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "art_gallery": {
+    "x": 596,
+    "y": 680,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "art_gallery-dark": {
     "x": 636,
     "y": 680,
     "width": 40,
@@ -2265,6 +2297,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "bowling_alley": {
+    "x": 880,
+    "y": 760,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "bowling_alley-dark": {
+    "x": 920,
+    "y": 760,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "bowling-alley-mono": {
     "x": 960,
     "y": 760,
@@ -2485,6 +2533,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "car_rental": {
+    "x": 0,
+    "y": 840,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "car_rental-dark": {
+    "x": 40,
+    "y": 840,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "car-rental-mono": {
     "x": 80,
     "y": 840,
@@ -2510,6 +2574,22 @@
     "visible": true
   },
   "car-repair-dark": {
+    "x": 200,
+    "y": 840,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "car_repair": {
+    "x": 160,
+    "y": 840,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "car_repair-dark": {
     "x": 200,
     "y": 840,
     "width": 40,
@@ -2836,6 +2916,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "communications_tower": {
+    "x": 776,
+    "y": 880,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "communications_tower-dark": {
+    "x": 816,
+    "y": 880,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "communications-tower-mono": {
     "x": 856,
     "y": 880,
@@ -2996,6 +3092,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "dog_park": {
+    "x": 560,
+    "y": 920,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "dog_park-dark": {
+    "x": 600,
+    "y": 920,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "dog-park-mono": {
     "x": 640,
     "y": 920,
@@ -3021,6 +3133,22 @@
     "visible": true
   },
   "drinking-water-dark": {
+    "x": 760,
+    "y": 920,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "drinking_water": {
+    "x": 720,
+    "y": 920,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "drinking_water-dark": {
     "x": 760,
     "y": 920,
     "width": 40,
