@@ -5153,6 +5153,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "religious_buddhist": {
+    "x": 2000,
+    "y": 960,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_buddhist-dark": {
+    "x": 1022,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "religious-buddhist-mono": {
     "x": 1062,
     "y": 638,
@@ -5178,6 +5194,22 @@
     "visible": true
   },
   "religious-christian-dark": {
+    "x": 1182,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_christian": {
+    "x": 1142,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_christian-dark": {
     "x": 1182,
     "y": 638,
     "width": 40,
@@ -5217,6 +5249,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "religious_jewish": {
+    "x": 1302,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_jewish-dark": {
+    "x": 1342,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "religious-jewish-mono": {
     "x": 1382,
     "y": 638,
@@ -5249,6 +5297,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "religious_muslim": {
+    "x": 1462,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_muslim-dark": {
+    "x": 1502,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "religious-muslim-mono": {
     "x": 1542,
     "y": 638,
@@ -5274,6 +5338,22 @@
     "visible": true
   },
   "religious-shinto-dark": {
+    "x": 1662,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_shinto": {
+    "x": 1622,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "religious_shinto-dark": {
     "x": 1662,
     "y": 638,
     "width": 40,
@@ -5314,6 +5394,22 @@
     "visible": true
   },
   "restaurant-bbq-dark": {
+    "x": 1862,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "restaurant_bbq": {
+    "x": 1822,
+    "y": 638,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "restaurant_bbq-dark": {
     "x": 1862,
     "y": 638,
     "width": 40,
@@ -5377,6 +5473,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "restaurant_noodle": {
+    "x": 1086,
+    "y": 550,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "restaurant_noodle-dark": {
+    "x": 1126,
+    "y": 550,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "restaurant-noodle-mono": {
     "x": 1166,
     "y": 550,
@@ -5409,6 +5521,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "restaurant_pizza": {
+    "x": 1246,
+    "y": 550,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "restaurant_pizza-dark": {
+    "x": 1286,
+    "y": 550,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "restaurant-pizza-mono": {
     "x": 1326,
     "y": 550,
@@ -5434,6 +5562,22 @@
     "visible": true
   },
   "restaurant-seafood-dark": {
+    "x": 1446,
+    "y": 550,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "restaurant_seafood": {
+    "x": 1406,
+    "y": 550,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "restaurant_seafood-dark": {
     "x": 1446,
     "y": 550,
     "width": 40,
@@ -5842,6 +5986,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "table_tennis": {
+    "x": 1404,
+    "y": 458,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "table_tennis-dark": {
+    "x": 1444,
+    "y": 458,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "table-tennis-mono": {
     "x": 1484,
     "y": 458,
@@ -5995,6 +6155,22 @@
     "visible": true
   },
   "town-hall-dark": {
+    "x": 1206,
+    "y": 504,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "town_hall": {
+    "x": 1166,
+    "y": 504,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "town_hall-dark": {
     "x": 1206,
     "y": 504,
     "width": 40,
