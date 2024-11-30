@@ -3842,7 +3842,23 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "jewelry_store": {
+    "x": 1572,
+    "y": 760,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "jewelry-store-dark": {
+    "x": 1612,
+    "y": 760,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "jewelry_store-dark": {
     "x": 1612,
     "y": 760,
     "width": 40,
@@ -4163,6 +4179,22 @@
     "visible": true
   },
   "mobile-phone-dark": {
+    "x": 1202,
+    "y": 840,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "mobile_phone": {
+    "x": 2008,
+    "y": 800,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "mobile_phone-dark": {
     "x": 1202,
     "y": 840,
     "width": 40,
@@ -4801,7 +4833,23 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "racetrack_boat": {
+    "x": 1240,
+    "y": 960,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "racetrack-boat-dark": {
+    "x": 1280,
+    "y": 960,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "racetrack_boat-dark": {
     "x": 1280,
     "y": 960,
     "width": 40,
@@ -4834,6 +4882,22 @@
     "visible": true
   },
   "racetrack-cycling-dark": {
+    "x": 1440,
+    "y": 960,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "racetrack_cycling": {
+    "x": 1400,
+    "y": 960,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "racetrack_cycling-dark": {
     "x": 1440,
     "y": 960,
     "width": 40,
@@ -7669,6 +7733,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "rail_light": {
+    "x": 952,
+    "y": 1066,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "rail_light-dark": {
+    "x": 984,
+    "y": 1066,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "rail-metro": {
     "x": 1016,
     "y": 1066,
@@ -7677,7 +7757,23 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "rail_metro": {
+    "x": 1016,
+    "y": 1066,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "rail-metro-dark": {
+    "x": 1048,
+    "y": 1066,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "rail_metro-dark": {
     "x": 1048,
     "y": 1066,
     "width": 32,
@@ -7771,6 +7867,14 @@
     "visible": true
   },
   "level-crossing": {
+    "x": 2018,
+    "y": 1034,
+    "width": 30,
+    "height": 30,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "level_crossing": {
     "x": 2018,
     "y": 1034,
     "width": 30,
