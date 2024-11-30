@@ -6098,6 +6098,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "toilets": {
+    "x": 1884,
+    "y": 458,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "toilets-dark": {
+    "x": 1924,
+    "y": 458,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "toilet-mono": {
     "x": 1964,
     "y": 458,
