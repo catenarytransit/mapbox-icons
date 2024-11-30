@@ -3882,6 +3882,22 @@
     "pixelRatio": 2,
     "visible": true
   },
+  "ice_cream": {
+    "x": 1092,
+    "y": 760,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "ice_cream-dark": {
+    "x": 1132,
+    "y": 760,
+    "width": 40,
+    "height": 40,
+    "pixelRatio": 2,
+    "visible": true
+  },
   "ice-cream-mono": {
     "x": 1172,
     "y": 760,
